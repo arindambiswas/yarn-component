@@ -1,0 +1,7 @@
+{
+  "name": "yarn-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arindam Biswas <arindam.biswas@gmail.com>",
+  "license": "MIT"
+}
